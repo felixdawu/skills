@@ -1,0 +1,48 @@
+# Commit Message Template
+# Copy this file and fill in the sections marked with []
+# Lines starting with # are comments and will be ignored by git
+
+# --- Subject Line (≤72 characters) ---
+# Format: <type>(<scope>): <description>
+# Examples:
+#   feat(auth): add JWT token validation
+#   fix(ui): prevent crash on empty data list
+#   docs(readme): update installation instructions
+[Type](Scope): Description
+
+# --- Body (optional, wrapped at 72 characters) ---
+# Explain WHAT changed and WHY (not HOW — the diff shows that)
+# Leave a blank line between subject and body
+
+[Body paragraph 1: Describe the change and its motivation]
+
+[Body paragraph 2: Additional context, if needed]
+
+# --- Footer (optional) ---
+# Use for breaking changes, linked issues, co-authors
+# Examples:
+#   BREAKING CHANGE: remove deprecated auth endpoint
+#   Closes #42
+#   Co-authored-by: Name <email@example.com>
+
+[Footer lines]
+
+# --- Type Reference ---
+# feat:     New feature or functionality
+# fix:      Bug fix or error correction
+# docs:     Documentation-only changes
+# style:    Formatting, whitespace, lint (no code change)
+# refactor: Code restructuring without behavior change
+# perf:     Performance improvements
+# test:     Adding or modifying tests
+# build:    Build system, dependencies, tooling
+# ci:       CI/CD pipeline changes
+# chore:    Maintenance, cleanup, config files
+# revert:   Reverting a previous commit
+
+# --- Tips ---
+# 1. Subject line: use imperative mood ("add" not "added")
+# 2. No period at the end of the subject line
+# 3. Keep subject line under 72 characters
+# 4. Separate body paragraphs with blank lines
+# 5. Use "BREAKING CHANGE:" footer for incompatible changes

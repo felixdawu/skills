@@ -9,6 +9,10 @@ https://github.com/vercel-labs/agent-skills
 https://github.com/ComposioHQ/awesome-claude-skills  
 https://github.com/JimLiu/baoyu-skills  
 https://github.com/stellarlinkco/myclaude  
+https://github.com/github/awesome-copilot/tree/main/skills  
+https://github.com/getsentry/skills/tree/main/skills  
+https://github.com/JuliusBrussee/caveman/blob/main/skills  
+https://github.com/softaworks/agent-toolkit/tree/main/skills  
 
 ## 三、Skills网站
 - [skills.sh](https://www.skills.sh/ "npx skills find 默认索引")
